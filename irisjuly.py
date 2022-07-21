@@ -39,7 +39,7 @@ prediction_proba = clf.predict_proba(df)
 
 st.subheader('Class labels and their corresponding index number')
 st.write(['Iris-setosa', 'Iris-versicolor', 'Iris-verginica'])
-st.image([Iris-setosa](https://alchetron.com/cdn/iris-setosa-0ab3145a-68f2-41ca-a529-c02fa2f5b02-resize-750.jpeg))
+st.image(https://alchetron.com/cdn/iris-setosa-0ab3145a-68f2-41ca-a529-c02fa2f5b02-resize-750.jpeg)
 
 st.subheader('Prediction')
 st.write(prediction)
