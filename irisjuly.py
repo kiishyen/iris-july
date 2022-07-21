@@ -9,6 +9,7 @@ This app predicts the **Iris flower** type!
 """)
 
 st.sidebar.header('User Input Parameters')
+st.image(https://alchetron.com/cdn/iris-setosa-0ab3145a-68f2-41ca-a529-c02fa2f5b02-resize-750.jpeg)
 
 def user_input_features():
     sepal_length = st.sidebar.slider('Sepal length', 4.3, 7.9, 5.4)
